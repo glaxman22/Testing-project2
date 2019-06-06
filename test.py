@@ -1,2 +1,2 @@
 import webbrowser
-webbrowser.open('https://arkenea.com/')
+webbrowser.open('https://google.com/')
